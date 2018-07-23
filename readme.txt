@@ -6,3 +6,4 @@ Git is free software.
 figuer out stage
 Git tracks changes.
 verifying github linking
+branch is OK?
